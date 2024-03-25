@@ -1,1 +1,1 @@
-Criado usando o Colaboratory.
+Projeto final para a disciplina Bases Computacionais da Ciência.
